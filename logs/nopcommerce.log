@@ -1,0 +1,341 @@
+2024-05-20 22:42:22:INFO:*************Test_01_Admin_login*******************
+2024-05-20 22:42:22:INFO:*************Test_Title_Verification started*******************
+2024-05-20 22:42:27:INFO:*************Title matched*******************
+2024-05-20 22:42:29:INFO:*************Test_Valid_login started*******************
+2024-05-20 22:42:36:INFO:*************Test_InValid_login started*******************
+2024-05-23 18:56:16:INFO:*************Test_01_Admin_login*******************
+2024-05-23 18:56:16:INFO:*************Test_Title_Verification started*******************
+2024-05-23 18:56:20:INFO:*************Title matched*******************
+2024-05-23 18:56:21:INFO:*************Test_Valid_login started*******************
+2024-05-23 18:56:26:INFO:*************Test_InValid_login started*******************
+2024-05-23 18:57:02:INFO:*************Test_01_Admin_login*******************
+2024-05-23 18:57:02:INFO:*************Test_Title_Verification started*******************
+2024-05-23 18:57:06:INFO:*************Title matched*******************
+2024-05-23 18:57:12:INFO:*************Test_Valid_login started*******************
+2024-05-23 18:57:22:INFO:*************Test_InValid_login started*******************
+2024-05-23 18:58:12:INFO:*************Test_01_Admin_login*******************
+2024-05-23 18:58:12:INFO:*************Test_Title_Verification started*******************
+2024-05-23 18:58:17:INFO:*************Title matched*******************
+2024-05-23 18:58:20:INFO:*************Test_Valid_login started*******************
+2024-05-23 18:58:29:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:00:57:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:00:57:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:00:57:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:00:57:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:01:02:INFO:*************Title matched*******************
+2024-05-23 19:03:01:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:03:01:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:03:01:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:03:01:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:03:05:INFO:*************Title matched*******************
+2024-05-23 19:03:35:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:03:35:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:03:35:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:03:35:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:03:37:INFO:*************Title matched*******************
+2024-05-23 19:04:16:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:04:16:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:04:16:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:04:16:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:04:20:INFO:*************Title matched*******************
+2024-05-23 19:05:18:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:05:18:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:05:18:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:05:18:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:05:24:INFO:*************Title matched*******************
+2024-05-23 19:06:11:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:06:11:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:06:12:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:06:27:INFO:*************Title matched*******************
+2024-05-23 19:06:30:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:07:02:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:07:03:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:07:03:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:07:11:INFO:*************Title matched*******************
+2024-05-23 19:07:14:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:07:32:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:07:32:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:07:33:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:07:38:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:08:03:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:08:04:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:08:04:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:08:08:INFO:*************Title matched*******************
+2024-05-23 19:08:11:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:08:54:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:08:54:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:09:08:INFO:*************Title matched*******************
+2024-05-23 19:09:11:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:09:24:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:09:50:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:09:50:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:09:54:INFO:*************Title matched*******************
+2024-05-23 19:09:56:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:10:02:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:10:28:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:10:28:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:10:30:INFO:*************Title matched*******************
+2024-05-23 19:10:32:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:10:36:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:11:03:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:11:03:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:11:03:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:11:03:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:11:08:INFO:*************Title matched*******************
+2024-05-23 19:16:04:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:16:06:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:16:06:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:16:12:INFO:*************Title matched*******************
+2024-05-23 19:16:15:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:16:53:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:16:53:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:16:53:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:16:56:INFO:*************Title matched*******************
+2024-05-23 19:17:02:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:17:50:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:17:50:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:17:50:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:17:56:INFO:*************Title matched*******************
+2024-05-23 19:18:02:INFO:*************Test_InValid_login started*******************
+2024-05-23 19:18:52:INFO:*************Test_01_Admin_login*******************
+2024-05-23 19:18:52:INFO:*************Test_Title_Verification started*******************
+2024-05-23 19:18:52:INFO:*************Test_Valid_login started*******************
+2024-05-23 19:18:56:INFO:*************Title matched*******************
+2024-05-23 19:18:57:INFO:*************Test_InValid_login started*******************
+2024-05-25 18:50:49:INFO:*************Test_01_Admin_login*******************
+2024-05-25 18:50:49:INFO:*************Test_Title_Verification started*******************
+2024-05-25 18:50:53:INFO:*************Title matched*******************
+2024-05-25 18:50:55:INFO:*************Test_Valid_login started*******************
+2024-05-25 18:51:00:INFO:*************Test_InValid_login started*******************
+2024-05-25 19:21:35:INFO:*************Test_01_Admin_login*******************
+2024-05-25 19:21:35:INFO:*************Test_Title_Verification started*******************
+2024-05-25 19:21:38:INFO:*************Title matched*******************
+2024-05-25 19:21:40:INFO:*************Test_Valid_login started*******************
+2024-05-25 19:21:45:INFO:*************Test_InValid_login started*******************
+2024-05-25 19:30:36:INFO:*************Test_01_Admin_login*******************
+2024-05-25 19:30:36:INFO:*************Test_Title_Verification started*******************
+2024-05-25 19:30:38:INFO:*************Title matched*******************
+2024-05-25 19:30:40:INFO:*************Test_Valid_login started*******************
+2024-05-25 19:30:44:INFO:*************Test_InValid_login started*******************
+2024-05-25 19:32:49:INFO:*************Test_01_Admin_login*******************
+2024-05-25 19:32:49:INFO:*************Test_Title_Verification started*******************
+2024-05-25 19:32:53:INFO:*************Title matched*******************
+2024-05-25 19:32:55:INFO:*************Test_Valid_login started*******************
+2024-05-25 19:33:02:INFO:*************Test_InValid_login started*******************
+2024-05-26 02:24:56:INFO:*************Test_01_Admin_login*******************
+2024-05-26 02:24:56:INFO:*************Test_Title_Verification started*******************
+2024-05-26 02:25:00:INFO:*************Title matched*******************
+2024-05-26 02:25:02:INFO:*************Test_Valid_login started*******************
+2024-05-26 02:25:05:INFO:*************Login_Title matched*******************
+2024-05-26 02:25:07:INFO:*************Test_InValid_login started*******************
+2024-05-26 02:25:10:INFO:*************Login_Title Does not matched*******************
+2024-05-26 02:27:39:INFO:*************Test_01_Admin_login*******************
+2024-05-26 02:27:39:INFO:*************Test_Title_Verification started*******************
+2024-05-26 02:27:43:INFO:*************Title matched*******************
+2024-05-26 02:27:44:INFO:*************Test_Valid_login started*******************
+2024-05-26 02:27:48:INFO:*************Login_Title matched*******************
+2024-05-26 02:27:50:INFO:*************Test_InValid_login started*******************
+2024-05-26 02:27:54:INFO:*************Login_Title Does not matched*******************
+2024-05-26 02:31:02:INFO:*************Test_01_Admin_login*******************
+2024-05-26 02:31:02:INFO:*************Test_Title_Verification started*******************
+2024-05-26 02:31:05:INFO:*************Title matched*******************
+2024-05-26 02:31:07:INFO:*************Test_Valid_login started*******************
+2024-05-26 02:31:10:INFO:*************Login_Title not matched*******************
+2024-05-26 02:31:12:INFO:*************Test_InValid_login started*******************
+2024-05-26 02:31:15:INFO:*************Login_Title matched*******************
+2024-05-26 02:35:56:INFO:*************Test_01_Admin_login*******************
+2024-05-26 02:35:56:INFO:*************Test_Title_Verification started*******************
+2024-05-26 02:35:59:INFO:*************Title matched*******************
+2024-05-26 02:36:01:INFO:*************Test_Valid_login started*******************
+2024-05-26 02:36:04:INFO:*************Test_InValid_login started*******************
+2024-05-26 19:48:09:INFO:*************Test_01_Admin_login*******************
+2024-05-26 19:48:09:INFO:*************Test_Title_Verification started*******************
+2024-05-26 19:48:13:INFO:*************Title matched*******************
+2024-05-26 19:48:15:INFO:*************Test_Valid_login started*******************
+2024-05-26 19:48:20:INFO:*************Test_InValid_login started*******************
+2024-05-27 01:03:59:INFO:*************Test_Valid_login started*******************
+2024-05-27 01:04:00:INFO:*************Test_01_Admin_login*******************
+2024-05-27 01:04:00:INFO:*************Test_Title_Verification started*******************
+2024-05-27 01:04:00:INFO:*************Test_InValid_login started*******************
+2024-05-27 01:04:03:INFO:*************Title matched*******************
+2024-05-27 22:50:47:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-05-27 22:50:48:INFO:*************Test_01_Admin_login*******************
+2024-05-27 22:50:48:INFO:*************Test_Title_Verification started*******************
+2024-05-27 22:50:55:INFO:*************Title matched*******************
+2024-05-27 22:50:57:INFO:*************Test_Valid_login started*******************
+2024-05-27 22:51:29:INFO:*************Test_InValid_login started*******************
+2024-05-27 22:55:27:INFO:*************Test_01_Admin_login*******************
+2024-05-27 22:55:27:INFO:*************Test_Title_Verification started*******************
+2024-05-27 22:55:31:INFO:*************Title matched*******************
+2024-05-27 22:55:32:INFO:*************Test_Valid_login started*******************
+2024-05-27 22:55:46:INFO:*************Test_InValid_login started*******************
+2024-05-27 22:56:59:INFO:*************Test_01_Admin_login*******************
+2024-05-27 22:56:59:INFO:*************Test_Title_Verification started*******************
+2024-05-27 22:58:30:INFO:*************Test_Valid_login started*******************
+2024-05-27 22:58:38:INFO:*************Test_InValid_login started*******************
+2024-05-27 22:58:56:INFO:*************Test_01_Admin_login*******************
+2024-05-27 22:58:56:INFO:*************Test_Title_Verification started*******************
+2024-05-27 22:59:00:INFO:*************Title matched*******************
+2024-05-27 22:59:02:INFO:*************Test_Valid_login started*******************
+2024-05-27 22:59:24:INFO:*************Test_InValid_login started*******************
+2024-05-27 23:01:27:INFO:*************Test_01_Admin_login*******************
+2024-05-27 23:01:27:INFO:*************Test_Title_Verification started*******************
+2024-05-27 23:01:33:INFO:*************Title matched*******************
+2024-05-27 23:01:34:INFO:*************Test_Valid_login started*******************
+2024-05-27 23:01:46:INFO:*************Test_InValid_login started*******************
+2024-06-04 23:00:12:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:09:12:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:09:27:INFO:*************Test_01_Admin_login*******************
+2024-06-04 23:09:27:INFO:*************Test_Title_Verification started*******************
+2024-06-04 23:09:30:INFO:*************Test_Valid_login started*******************
+2024-06-04 23:09:32:INFO:*************Test_InValid_login started*******************
+2024-06-04 23:09:51:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:09:54:INFO:*************Test_01_Admin_login*******************
+2024-06-04 23:09:54:INFO:*************Test_Title_Verification started*******************
+2024-06-04 23:09:57:INFO:*************Title Does not matched*******************
+2024-06-04 23:09:58:INFO:*************Test_Valid_login started*******************
+2024-06-04 23:10:01:INFO:*************Test_InValid_login started*******************
+2024-06-04 23:11:19:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:13:20:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:16:41:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:18:56:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:27:16:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:27:38:INFO:***********Login_Completed**********
+2024-06-04 23:27:38:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:27:45:INFO:***********Test_Providing_UserInfo**********
+2024-06-04 23:29:15:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:29:22:INFO:***********Login_Completed**********
+2024-06-04 23:29:22:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:33:00:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:33:50:INFO:***********Login_Completed**********
+2024-06-04 23:33:50:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:34:01:INFO:***********Test_Providing_UserInfo**********
+2024-06-04 23:37:38:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:37:48:INFO:***********Login_Completed**********
+2024-06-04 23:37:48:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:37:52:INFO:***********Test_Providing_UserInfo**********
+2024-06-04 23:39:17:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:39:29:INFO:***********Login_Completed**********
+2024-06-04 23:39:29:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:39:40:INFO:***********Test_Providing_UserInfo**********
+2024-06-04 23:42:59:INFO:***********Test_Add_Customer_Started**********
+2024-06-04 23:43:15:INFO:***********Login_Completed**********
+2024-06-04 23:43:15:INFO:***********Adding_Customer_Started**********
+2024-06-04 23:43:19:INFO:***********Test_Providing_UserInfo**********
+2024-06-06 09:02:01:INFO:***********Test_Add_Customer_Started**********
+2024-06-06 09:02:11:INFO:***********Login_Completed**********
+2024-06-06 09:02:11:INFO:***********Adding_Customer_Started**********
+2024-06-06 09:02:14:INFO:***********Test_Providing_UserInfo**********
+2024-06-06 09:02:58:INFO:***********Test_Add_Customer_Started**********
+2024-06-06 09:03:05:INFO:***********Login_Completed**********
+2024-06-06 09:03:05:INFO:***********Adding_Customer_Started**********
+2024-06-06 09:03:09:INFO:***********Test_Providing_UserInfo**********
+2024-06-06 09:03:51:INFO:***********Test_Add_Customer_Started**********
+2024-06-06 09:03:58:INFO:***********Login_Completed**********
+2024-06-06 09:03:58:INFO:***********Adding_Customer_Started**********
+2024-06-06 09:04:02:INFO:***********Test_Providing_UserInfo**********
+2024-06-08 10:27:19:INFO:***********Test_Add_Customer_Started**********
+2024-06-08 10:27:46:INFO:***********Login_Completed**********
+2024-06-08 10:27:46:INFO:***********Adding_Customer_Started**********
+2024-06-08 10:31:00:INFO:***********Test_Add_Customer_Started**********
+2024-06-08 10:31:12:INFO:***********Login_Completed**********
+2024-06-08 10:31:12:INFO:***********Adding_Customer_Started**********
+2024-06-08 10:37:27:INFO:*************Test_01_Admin_login*******************
+2024-06-08 10:37:27:INFO:*************Test_Title_Verification started*******************
+2024-06-08 10:37:30:INFO:*************Title matched*******************
+2024-06-08 10:37:31:INFO:*************Test_Valid_login started*******************
+2024-06-08 10:37:50:INFO:*************Test_InValid_login started*******************
+2024-06-08 10:39:19:INFO:*************Test_01_Admin_login*******************
+2024-06-08 10:39:19:INFO:*************Test_Title_Verification started*******************
+2024-06-08 10:39:22:INFO:*************Title matched*******************
+2024-06-08 10:39:24:INFO:*************Test_Valid_login started*******************
+2024-06-08 10:39:37:INFO:*************Test_InValid_login started*******************
+2024-06-08 10:42:18:INFO:*************Test_01_Admin_login*******************
+2024-06-08 10:42:18:INFO:*************Test_Title_Verification started*******************
+2024-06-08 10:42:23:INFO:*************Title matched*******************
+2024-06-08 10:42:24:INFO:*************Test_Valid_login started*******************
+2024-06-08 10:42:40:INFO:*************Test_InValid_login started*******************
+2024-06-08 10:45:23:INFO:*************Test_01_Admin_login*******************
+2024-06-08 10:45:23:INFO:*************Test_Title_Verification started*******************
+2024-06-08 10:45:29:INFO:*************Title matched*******************
+2024-06-08 10:45:31:INFO:*************Test_Valid_login started*******************
+2024-06-08 10:45:57:INFO:*************Test_InValid_login started*******************
+2024-06-08 13:59:53:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 13:59:59:INFO:***********Test_SearchCustomerByName_Started**********
+2024-06-08 14:00:05:INFO:***********Test_SearchCustomerByName_Started**********
+2024-06-08 14:03:15:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:03:20:INFO:***********Test_SearchCustomerByName_Started**********
+2024-06-08 14:03:25:INFO:***********Test_SearchCustomerByName_Started**********
+2024-06-08 14:09:22:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:09:32:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:09:47:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:10:03:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:10:12:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:10:53:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:15:06:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:15:15:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:15:29:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:17:51:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:17:59:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:18:19:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:19:26:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:19:42:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:20:00:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:21:42:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:22:05:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:22:25:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:27:08:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:27:29:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:33:50:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:34:08:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:36:44:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:37:07:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:42:51:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:43:15:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:43:38:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:46:12:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:46:39:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:47:02:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:53:38:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:53:58:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:54:19:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:56:03:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:56:21:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:56:49:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:59:09:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 14:59:34:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 15:00:19:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 15:01:56:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 15:02:20:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 15:03:03:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:27:43:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:28:08:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:28:41:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:30:15:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:49:54:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:50:14:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:50:41:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:52:40:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:55:13:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 16:55:25:INFO:***********test_Search_CustomerByCompany_is_Passed*********
+2024-06-08 17:07:08:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:09:10:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:09:25:INFO:***********test_Search_CustomerByCompany_is_Failed*********
+2024-06-08 17:45:12:INFO:*************Test_Valid_login started*******************
+2024-06-08 17:45:24:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:45:40:INFO:***********test_Search_CustomerByCompany_is_Failed*********
+2024-06-08 17:46:59:INFO:*************Test_01_Admin_login*******************
+2024-06-08 17:46:59:INFO:*************Test_Title_Verification started*******************
+2024-06-08 17:47:01:INFO:*************Title matched*******************
+2024-06-08 17:47:03:INFO:*************Test_Valid_login started*******************
+2024-06-08 17:47:12:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:47:25:INFO:***********test_Search_CustomerByEmail_is_Failed*********
+2024-06-08 17:48:30:INFO:*************Test_01_Admin_login*******************
+2024-06-08 17:48:30:INFO:*************Test_Title_Verification started*******************
+2024-06-08 17:48:33:INFO:*************Title matched*******************
+2024-06-08 17:48:35:INFO:*************Test_Valid_login started*******************
+2024-06-08 17:48:45:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:48:56:INFO:***********test_Search_CustomerByEmail_is_Failed*********
+2024-06-08 17:48:57:INFO:***********Test_SearchCustomer_Started**********
+2024-06-08 17:49:10:INFO:***********test_Search_CustomerByCompany_is_Failed*********
+2024-06-08 17:51:38:INFO:*************Test_Valid_login started*******************
